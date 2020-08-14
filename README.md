@@ -1,0 +1,1 @@
+# for_typescript
